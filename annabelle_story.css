@@ -1,0 +1,32 @@
+.annabelle_story{position: relative; left: 390px; margin-bottom: 50px;}
+
+p {
+	color: red;
+	text-align: center;
+	font-family: moonfront;
+	font-size:20px;
+	margin: 0 auto;
+	top: 150px;
+	padding-bottom:30px;
+}
+
+.return_home .home_button{
+	background-color: #f9004d;
+	color: white;
+	text-decoration: none;
+	position: relative;
+	margin-left: 640px;
+	top: 50px;
+	margin-bottom: 150px;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 13px 30px;
+	border-radius: 30px;
+	transition: .4s;
+}
+
+.return_home .home_button:hover{
+	background-color: transparent;
+	border: 2px solid #f9004d;
+	cursor: pointer;
+}
